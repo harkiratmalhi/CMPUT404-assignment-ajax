@@ -12,4 +12,9 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
+Sources:
+https://www.w3schools.com/js/js_json_http.asp
+https://www.w3schools.com/xml/xml_http.asp
+
+
 
